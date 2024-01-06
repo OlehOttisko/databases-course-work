@@ -1,55 +1,55 @@
 # Тестування працездатності системи
 
-Тестування сервісу проводилося за допомогою застосунку [Postman](https://www.google.com/search?q=postman&rlz=1C1GCEA_enUA1034UA1034&oq=postman&gs_lcrp=EgZjaHJvbWUqCQgAEEUYOxiABDIJCAAQRRg7GIAEMgcIARAAGIAEMgcIAhAAGIAEMgcIAxAAGIAEMgcIBBAAGIAEMgcIBRAAGIAEMgcIBhAAGIAEMgcIBxAAGIAEMgcICBAAGIAEMgcICRAAGIAE0gEIMTA4NGowajeoAgCwAgA&sourceid=chrome&ie=UTF-8).
+Тестування проводилося за допомогою Postman
 
-## Створення проєкту (метод POST)
+## Створення проєкту
 
-### Запит на створення проєкту
+### Запит
 
 ![create_project.png](https://i.imgur.com/klqCKsg.png)
 
-### Відповідь на створення проєкту
+### Відповідь
 
 ![create_project_response.png](https://imgur.com/637Tgxy.png)
 
-### Спроба створити проєкт з помилковим часом
+### Створення проєкту з помилковим часом
 
 ![create_project_exception_data.png](https://imgur.com/dwG07UD.png)
 
-### Спроба створити проєкт з вже існуючою назвою
+### Створення проєкту з вже існуючою назвою
 
 ![create_project_exception_title.png](https://imgur.com/UnZ0kPj.png)
 
-## Отримання проєкту (метод GET)
+## Отримання проєкту
 
-### Успішне отримання проєкту
+### Успіх
 
 ![get_project.png](https://imgur.com/klqCKsg.png)
 
-### Помилка в отриманні проєкту
+### Помилка
 
 ![get_project_exeption_invalid_id.png](https://imgur.com/n5sXEyq.png)
 
-## Оновлення проєкту (метод PATCH)
+## Оновлення проєкту
 
-### Запит на оновлення проєкту
+### Запит на оновлення
 
 ![patch_project.png](https://imgur.com/u9jtyoS.png)
 
-### Відповідь на оновлення проєкту
+### Відповідь на оновлення
 
 ![patch_project_response.png](https://imgur.com/5p5V7Hm.png)
 
-### Помилка в оновленні проєкту
+### Помилка в оновленні
 
 ![patch_project_exception_invalid_id.png](https://imgur.com/SiTBbhY.png)
 
-## Видалення користувача (метод DELETE)
+## Видалення проєкту
 
-### Успішне видалення проєкту
+### Успішне видалення
 
 ![delete_project.png](https://imgur.com/wzE6owA.png)
 
-### Видалення неіснуючого проєкту
+### Видалення неіснуючого
 
 ![delete_project_exeption_invalid_id.png](https://imgur.com/vIcyLwW.png)
