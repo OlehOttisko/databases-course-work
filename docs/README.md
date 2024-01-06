@@ -23,7 +23,7 @@
 ** [Пошта: victoriasabadan1@gmail.com, <a href="https://t.me/witchkaa">Телеграм</a>]
 
 *студент 2-го курсу, групи ІМ-24*<span padding-right:5em></span> **Олег Отіско
-** [Пошта: oleg.ottisko9@gmail.com, <a href="https://t.me/Oleg_Ott">Телеграм</a>]
+** [Пошта: oleg.ottisko@gmail.com, <a href="https://t.me/Oleg_Ott">Телеграм</a>]
 
 **Керівник**
 
