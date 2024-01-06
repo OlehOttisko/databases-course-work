@@ -9,6 +9,8 @@ footer: "ECL 2.0 Licensed | Copyright © 2023 Королюк"
 
 **Виконав(-ла):** 
 
+*студент 2-го курсу, групи ІМ-22*<span padding-right:5em></span> **Вікторія САБАДАН** [Пошта: oleg.ottisko@gmail.com, <a href="https://t.me/Oleg_Ott">Телеграм</a>]
+
 *студент 2-го курсу, групи ІМ-22*<span padding-right:5em></span> **Михайло БАЛАХОН** [Пошта: 9mohapx9@gmail.com, <a href="https://t.me/mibal_ua">Телеграм</a>]
 
 *студент 2-го курсу, групи ІМ-22*<span padding-right:5em></span> **Олександр БОНДАРЕНКО** [Пошта: albom2004q@gmail.com, <a href="https://t.me/Dreammy_Oleksandr">Телеграм</a>]
